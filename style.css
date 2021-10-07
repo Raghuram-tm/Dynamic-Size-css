@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+}
+.img1{
+    width: 100%;
+}
+.wrapper{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+    min-width: 200px;
+    
+}
+.wrapper h2{
+    text-align: center;
+    background-color: rgb(101, 247, 17);
+}
+.wrapper p{
+    line-height: 2;
+}
